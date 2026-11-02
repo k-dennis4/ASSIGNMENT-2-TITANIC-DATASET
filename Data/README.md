@@ -1,3 +1,2 @@
 # Data
-
-Input dataset: `train.csv`. Keep this file in the `Data` folder; the notebook reads it using a relative project path.
+("C:/Users/SCHOOL/Documents/CPSC_4800/train.csv")
